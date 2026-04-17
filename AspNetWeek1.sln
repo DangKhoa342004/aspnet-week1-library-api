@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetWeek1.Api", "AspNetWeek1.Api\AspNetWeek1.Api.csproj", "{534F90AC-C9DA-4FE9-9977-9D4CDCA4C051}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetWeek1.Api", "AspNetWeek1.Api.csproj", "{E738A5E6-3A39-45CA-A6D1-09102A26D063}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{534F90AC-C9DA-4FE9-9977-9D4CDCA4C051}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{534F90AC-C9DA-4FE9-9977-9D4CDCA4C051}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{534F90AC-C9DA-4FE9-9977-9D4CDCA4C051}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E738A5E6-3A39-45CA-A6D1-09102A26D063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E738A5E6-3A39-45CA-A6D1-09102A26D063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E738A5E6-3A39-45CA-A6D1-09102A26D063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E738A5E6-3A39-45CA-A6D1-09102A26D063}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
