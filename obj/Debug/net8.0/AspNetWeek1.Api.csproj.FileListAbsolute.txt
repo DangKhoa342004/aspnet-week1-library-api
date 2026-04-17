@@ -32,3 +32,4 @@ C:\Users\MgEscape\OneDrive\Máy tính\API_ASPNET\AspNetWeek1.Api\obj\Debug\net8.
 C:\Users\MgEscape\OneDrive\Máy tính\API_ASPNET\AspNetWeek1.Api\obj\Debug\net8.0\AspNetWeek1.Api.genruntimeconfig.cache
 C:\Users\MgEscape\OneDrive\Máy tính\API_ASPNET\AspNetWeek1.Api\obj\Debug\net8.0\ref\AspNetWeek1.Api.dll
 C:\Users\MgEscape\OneDrive\Máy tính\API_ASPNET\AspNetWeek1.Api\bin\Debug\net8.0\AspNetWeek1.Api.staticwebassets.runtime.json
+C:\Users\MgEscape\OneDrive\Máy tính\API_ASPNET\AspNetWeek1.Api\obj\Debug\net8.0\AspNetWeek1.Api.sourcelink.json
