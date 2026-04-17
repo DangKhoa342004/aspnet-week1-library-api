@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "OQeIoyljWtpY5KfKR0R1tbExkytFaiNejhINZq9gHLQ=",
+  "Source": "AspNetWeek1.Api",
+  "BasePath": "_content/AspNetWeek1.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AspNetWeek1.Api\\wwwroot",
+      "Source": "AspNetWeek1.Api",
+      "ContentRoot": "C:\\Users\\MgEscape\\OneDrive\\Máy tính\\API_ASPNET\\AspNetWeek1.Api\\wwwroot\\",
+      "BasePath": "_content/AspNetWeek1.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\MgEscape\\OneDrive\\Máy tính\\API_ASPNET\\AspNetWeek1.Api\\wwwroot\\hello.txt",
+      "SourceId": "AspNetWeek1.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\MgEscape\\OneDrive\\Máy tính\\API_ASPNET\\AspNetWeek1.Api\\wwwroot\\",
+      "BasePath": "_content/AspNetWeek1.Api",
+      "RelativePath": "hello.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\hello.txt"
+    }
+  ]
+}

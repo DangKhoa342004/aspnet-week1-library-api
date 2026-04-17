@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\MgEscape\\OneDrive\\Máy tính\\API_ASPNET\\AspNetWeek1.Api\\wwwroot\\hello.txt",
+      "PackagePath": "staticwebassets\\hello.txt"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AspNetWeek1.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AspNetWeek1.Api.props",
+      "PackagePath": "build\\AspNetWeek1.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AspNetWeek1.Api.props",
+      "PackagePath": "buildMultiTargeting\\AspNetWeek1.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AspNetWeek1.Api.props",
+      "PackagePath": "buildTransitive\\AspNetWeek1.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

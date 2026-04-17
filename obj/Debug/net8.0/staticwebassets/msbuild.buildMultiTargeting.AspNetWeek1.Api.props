@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AspNetWeek1.Api.props" />
+</Project>
